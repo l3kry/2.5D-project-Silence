@@ -112,3 +112,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local cleanup archives, captures, and accidental nested checkouts
+/UnusedAssetsArchive/
+/Captures/
+/2.5D-project-Silence/
+/Project Silence/
